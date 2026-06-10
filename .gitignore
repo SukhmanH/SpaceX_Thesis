@@ -1,0 +1,16 @@
+# Cached downloads (bulky + reproducible; re-fetched on run, see README).
+# Keep only the small universe audit log (build_universe.py provenance).
+data/raw/*
+!data/raw/universe_audit.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

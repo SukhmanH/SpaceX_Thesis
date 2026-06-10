@@ -1,0 +1,10 @@
+td,pct,kind,cum_base,date,label
+38,20,earnings,20,"Aug 07, 2026",20% — post Q2'26 earnings (first public earnings)
+38,10,conditional,20,"Aug 07, 2026","+10% conditional (stock ≥30% over offer, 5 of 10 days)"
+70,7,fixed,27,"Sep 23, 2026",7% (+70)
+90,7,fixed,34,"Oct 21, 2026",7% (+90)
+103,28,earnings,62,"Nov 09, 2026",28% — post Q3'26 earnings
+105,7,fixed,69,"Nov 11, 2026",7% (+105)
+120,7,fixed,76,"Dec 03, 2026",7% (+120)
+135,7,fixed,83,"Dec 24, 2026",7% (+135)
+180,17,fixed,100,"Mar 03, 2027",Remainder — +180

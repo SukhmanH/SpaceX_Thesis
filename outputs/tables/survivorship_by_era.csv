@@ -1,0 +1,8 @@
+study,era,universe,kept,dropped,pct_kept,excluded_by_design
+Study 1 (IPO),2010–2014,22,18,4,81.8,20
+Study 1 (IPO),2015–2019,35,30,5,85.7,26
+Study 1 (IPO),2020–present,96,84,12,87.5,69
+Study 2 (index),2005–2009,21,18,3,85.7,0
+Study 2 (index),2010–2014,59,51,8,86.4,0
+Study 2 (index),2015–2019,109,101,8,92.7,0
+Study 2 (index),2020–present,107,100,7,93.5,0

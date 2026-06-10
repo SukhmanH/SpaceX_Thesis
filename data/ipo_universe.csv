@@ -1,0 +1,269 @@
+ticker,bucket,offer_price,mcap_listing_b,reason,name,first_trade,mcap_src,mcap_conf,ritter_ticker,match_method
+COIN,considered,250.0,46.496513875,direct listing (no underwriter/lockup) - excluded by spec,Coinbase Global Inc,2021-04-14,auto:ritter+yf,high,COIN,ticker+date
+MDLN,considered,29.0,38.097799438,too recent: IPO 2025-12-17; +180 td outcome not yet observable,Medline Inc.,2025-12-17,ritter-anchor,med,MDLN,ticker+date
+SPOT,considered,165.9,29.5489453728,direct listing (no underwriter/lockup) - excluded by spec,Spotify Technology S.A.,2018-04-03,single:yf,low,SPOT,ticker+date
+RBLX,considered,45.0,24.77028447,direct listing (no underwriter/lockup) - excluded by spec,Roblox,2021-03-10,auto:edgar+ritter+yf,high,RBLX,ticker+date
+WORK,considered,38.5,20.2254745,direct listing (no underwriter/lockup) - excluded by spec,Slack,2019-06-20,ritter-anchor,med,WORK,ticker+date
+PLTR,considered,7.25,11.50952,direct listing (no underwriter/lockup) - excluded by spec,Palantir Technologies,2020-09-30,auto:edgar+ritter+yf,high,PLTR,ticker+date
+STUB,considered,23.5,8.6436121505,too recent: IPO 2025-09-17; +180 td outcome not yet observable,"StubHub Holdings, Inc.",2025-09-17,ritter-anchor,med,STUB,ticker+date
+BETA,considered,34.0,7.609458502,too recent: IPO 2025-11-04; +180 td outcome not yet observable,"BETA Technologies, Inc.",2025-11-04,ritter-anchor,med,BETA,ticker+date
+NTSK,considered,19.0,7.259390743,too recent: IPO 2025-09-18; +180 td outcome not yet observable,Netskope Inc,2025-09-18,ritter-anchor,med,NTSK,ticker+date
+SQSP,considered,50.0,6.8038647,direct listing (no underwriter/lockup) - excluded by spec,"SquareSpace, Inc.",2021-05-19,ritter-anchor,med,SQSP,ticker+date
+NAVN,considered,25.0,6.20553975,too recent: IPO 2025-10-30; +180 td outcome not yet observable,"Navan, Inc.",2025-10-30,ritter-anchor,med,NAVN,ticker+date
+DOCN,considered,47.0,4.9788619275,~$5.0B at listing (<$5B),DigitalOcean Holdings Inc,2021-03-24,auto:edgar+yf,high,DOCN,ticker+date
+TEGP,considered,29.0,4.91965976,~$4.9B at listing (<$5B),Tallgrass Energy GP LP,2015-05-07,ritter-anchor,med,TEGP,ticker+date
+SE,considered,15.0,4.90558512,~$4.9B at listing (<$5B),Sea Ltd,2017-10-20,single:yf,low,SE,ticker+date
+EPE,considered,20.0,4.89506,~$4.9B at listing (<$5B),EP Energy Corp,2014-01-17,ritter-anchor,med,EPE,ticker+date
+WGP,considered,22.0,4.815712,~$4.8B at listing (<$5B),Western Gas Equity Partners LP,2012-12-06,ritter-anchor,med,WGP,ticker+date
+WDH,considered,12.0,4.729524096,~$4.7B at listing (<$5B),Waterdrop Inc,2021-05-07,single:yf,low,WDH,ticker+date
+DOCS,considered,26.0,4.72438876,~$4.7B at listing (<$5B),Doximity Inc,2021-06-24,auto:edgar+ritter,high,DOCS,ticker+date
+ARMK,considered,20.0,4.70751672,~$4.7B at listing (<$5B),ARAMARK Holdings Corp,2013-12-12,auto:edgar+yf,high,ARMK,ticker+date
+FLNC,considered,28.0,4.66666662,~$4.7B at listing (<$5B),Fluence Energy Inc,2021-10-28,ritter-anchor,med,FLNC,ticker+date
+WDAY,considered,28.0,4.648,~$4.6B at listing (<$5B),Workday Inc,2012-10-11,auto:edgar+ritter+yf,high,WDAY,ticker+date
+VOYA,considered,19.5,4.6419382425,~$4.6B at listing (<$5B),ING US Inc,2013-05-01,auto:edgar+yf,high,VOYA,ticker+date
+CQH,considered,20.0,4.634,~$4.6B at listing (<$5B),Cheniere Energy Partners LP H,2013-12-13,single:yf,low,CQH,ticker+date
+SANA,considered,25.0,4.624883199999999,~$4.6B at listing (<$5B),Sana Biotechnology Inc,2021-02-04,auto:edgar+yf,high,SANA,ticker+date
+AXTA,considered,19.5,4.5593764905,~$4.6B at listing (<$5B),Axalta Coating Systems Ltd,2014-11-12,auto:edgar+yf,high,AXTA,ticker+date
+VVV,considered,22.0,4.499332233,~$4.5B at listing (<$5B),Valvoline Inc,2016-09-23,auto:edgar+yf,high,VVV,ticker+date
+YOU,considered,31.0,4.488513808,~$4.5B at listing (<$5B),Clear Secure Inc,2021-06-30,auto:ritter+yf,high,YOU,ticker+date
+DOCU,considered,29.0,4.476066596,~$4.5B at listing (<$5B),DocuSign Inc,2018-04-27,auto:edgar+yf,high,DOCU,ticker+date
+DT,considered,16.0,4.4479583599999994,~$4.4B at listing (<$5B),Dynatrace Inc,2019-08-01,auto:edgar+yf,high,DT,ticker+date
+ARD,considered,19.0,4.444024,~$4.4B at listing (<$5B),Ardagh Group SA,2017-03-15,ritter-anchor,med,ARD,ticker+date
+CRCT,considered,20.0,4.42732,~$4.4B at listing (<$5B),Cricut Inc,2021-03-25,auto:edgar+ritter+yf,high,CRCT,ticker+date
+NET,considered,15.0,4.400155305,~$4.4B at listing (<$5B),Cloudflare Inc,2019-09-13,ritter-anchor,med,NET,ticker+date
+COUR,considered,33.0,4.3896842385,~$4.4B at listing (<$5B),Coursera Inc,2021-03-31,auto:edgar+yf,high,COUR,ticker+date
+TEAM,considered,21.0,4.3750888544999995,~$4.4B at listing (<$5B),Atlassian Corp PLC,2015-12-09,auto:ritter+yf,high,TEAM,ticker+date
+ARX,considered,21.0,4.3646144955,~$4.4B at listing (<$5B),Accelerant Holdings,2025-07-24,auto:ritter+yf,high,ARX,ticker+date
+WRBY,considered,40.0,4.327103,direct listing (no underwriter/lockup) - excluded by spec,Warby Parker Inc,2021-09-29,auto:edgar+ritter+yf,high,WRBY,ticker+date
+SABR,considered,16.0,4.308045271999999,~$4.3B at listing (<$5B),Sabre Corp,2014-04-17,auto:edgar+yf,high,SABR,ticker+date
+LNKD,considered,45.0,4.305375,~$4.3B at listing (<$5B),LinkedIn Corp,2011-05-19,ritter-anchor,med,LNKD,ticker+date
+EVHC,considered,23.0,4.29479,~$4.3B at listing (<$5B),Envision Healthcare Holdings,2013-08-14,single:yf,low,EVHC,ticker+date
+GSKY,considered,23.0,4.282355832,~$4.3B at listing (<$5B),GreenSky Inc,2018-05-24,ritter-anchor,med,GSKY,ticker+date
+ETOR,considered,52.0,4.259607872,~$4.3B at listing (<$5B),eToro Group Ltd.,2025-05-14,ritter-anchor,med,ETOR,ticker+date
+DV,considered,27.0,4.220058096000001,~$4.2B at listing (<$5B),DoubleVerify Holdings Inc,2021-04-21,auto:edgar+yf,high,DV,ticker+date
+WRD,considered,15.5,4.206358752,~$4.2B at listing (<$5B),WeRide Inc.,2024-10-25,single:yf,low,WRD,ticker+date
+RXT,considered,21.0,4.1809834605,~$4.2B at listing (<$5B),Rackspace Technology Inc,2020-08-05,auto:edgar+yf,high,RXT,ticker+date
+SHLS,considered,25.0,4.164854475,~$4.2B at listing (<$5B),Shoals Technologies Group Inc,2021-01-27,auto:ritter+yf,high,SHLS,ticker+date
+NCLH,considered,19.0,4.117931674,~$4.1B at listing (<$5B),Norwegian Cruise Line Hldg Ltd,2013-01-17,auto:edgar+yf,high,NCLH,ticker+date
+TRU,considered,22.5,4.10044156875,~$4.1B at listing (<$5B),TransUnion,2015-06-25,auto:edgar+yf,high,TRU,ticker+date
+FIT,considered,20.0,4.09302,~$4.1B at listing (<$5B),Fitbit Inc,2015-06-18,ritter-anchor,med,FIT,ticker+date
+ULCC,considered,19.0,4.0897979085,~$4.1B at listing (<$5B),Frontier Group Holdings Inc,2021-04-01,auto:edgar+yf,high,ULCC,ticker+date
+AMPL,considered,35.0,4.0601164625,direct listing (no underwriter/lockup) - excluded by spec,"Amplitude, Inc.",2021-09-28,auto:ritter+yf,high,AMPL,ticker+date
+AMWL,considered,18.0,4.057773516,~$4.1B at listing (<$5B),American Well Corp,2020-09-17,ritter-anchor,med,AMWL,ticker+date
+ALSN,considered,23.0,4.052675877,~$4.1B at listing (<$5B),Allison Transmission Hldg Inc,2012-03-14,auto:edgar+yf,high,ALSN,ticker+date
+AI,considered,42.0,4.035750642,~$4.0B at listing (<$5B),C3.ai Inc,2020-12-09,auto:ritter+yf,high,AI,ticker+date
+DH,considered,27.0,4.005612189,~$4.0B at listing (<$5B),Definitive Healthcare Corp,2021-09-15,ritter-anchor,med,DH,ticker+date
+BILI,considered,11.5,3.99993,~$4.0B at listing (<$5B),Bilibili Inc,2018-03-28,single:yf,low,BILI,ticker+date
+UDMY,considered,29.0,3.985383232,~$4.0B at listing (<$5B),Udemy Inc,2021-10-29,single:yf,low,UDMY,ticker+date
+CXM,considered,16.0,3.969426016,~$4.0B at listing (<$5B),Sprinklr Inc,2021-06-23,ritter-anchor,med,CXM,ticker+date
+FROG,considered,44.0,3.9571043599999998,~$4.0B at listing (<$5B),JFrog Ltd,2020-09-16,auto:edgar+yf,high,FROG,ticker+date
+CNM,considered,20.0,3.95710008,~$4.0B at listing (<$5B),Core & Main Inc,2021-07-23,auto:ritter+yf,high,CNM,ticker+date
+BLND,considered,18.0,3.952692,~$4.0B at listing (<$5B),Blend Labs Inc,2021-07-16,auto:edgar+ritter+yf,high,BLND,ticker+date
+WOOF,considered,18.0,3.94603326,~$3.9B at listing (<$5B),Petco Health & Wellness Co Inc,2021-01-14,auto:ritter+yf,high,WOOF,ticker+date
+LDI,considered,14.0,3.9230730560000002,~$3.9B at listing (<$5B),loanDepot Inc,2021-02-11,auto:ritter+yf,high,LDI,ticker+date
+HAYW,considered,17.0,3.9155951164999996,~$3.9B at listing (<$5B),Hayward Holdings Inc,2021-03-12,auto:edgar+yf,high,HAYW,ticker+date
+HEPS,considered,12.0,3.911976192,~$3.9B at listing (<$5B),D-MARKET Electronic Services &,2021-07-01,single:yf,low,HBX,name+date(0.75)
+VZIO,considered,21.0,3.857957208,~$3.9B at listing (<$5B),Vizio Holding Corp,2021-03-25,ritter-anchor,med,VZIO,ticker+date
+ACVA,considered,25.0,3.8537758875,~$3.9B at listing (<$5B),ACV Auctions Inc,2021-03-24,auto:ritter+yf,high,ACVA,ticker+date
+CHNG,considered,13.0,3.826250844,~$3.8B at listing (<$5B),Change Healthcare Inc,2019-06-27,ritter-anchor,med,CHNG,ticker+date
+PVTL,considered,15.0,3.75504588,~$3.8B at listing (<$5B),Pivotal Software,2018-04-20,ritter-anchor,med,PVTL,ticker+date
+BROS,considered,23.0,3.754388049,~$3.8B at listing (<$5B),Dutch Bros Inc,2021-09-15,ritter-anchor,med,BROS,ticker+date
+BKFS,considered,24.5,3.7443105,~$3.7B at listing (<$5B),Black Knight Financial Svcs,2015-05-20,ritter-anchor,med,BKFS,ticker+date
+CVRR,considered,25.0,3.735,~$3.7B at listing (<$5B),CVR Refining LP,2013-01-16,auto:ritter+yf,high,CVRR,ticker+date
+SWCH,considered,17.0,3.681672371,~$3.7B at listing (<$5B),Switch Inc,2017-10-06,ritter-anchor,med,SWCH,ticker+date
+WB,considered,17.0,3.666916864,~$3.7B at listing (<$5B),Weibo Corp,2014-04-17,single:yf,low,WB,ticker+date
+DUOL,considered,102.0,3.660999504,~$3.7B at listing (<$5B),Duolingo Inc,2021-07-28,ritter-anchor,med,DUOL,ticker+date
+TXG,considered,39.0,3.660138144,~$3.7B at listing (<$5B),10X Genomics Inc,2019-09-12,auto:edgar+ritter+yf,high,TXG,ticker+date
+DRVN,considered,22.0,3.65334024,~$3.7B at listing (<$5B),Driven Brands Holdings Inc,2021-01-15,auto:edgar+yf,high,DRVN,ticker+date
+VIA,considered,46.0,3.650423794,~$3.7B at listing (<$5B),"Via Transportation, Inc.",2025-09-12,ritter-anchor,med,VIA,ticker+date
+CWAN,considered,18.0,3.639856869,~$3.6B at listing (<$5B),"Clearwater Analytics Holdings,",2021-09-24,auto:ritter+yf,high,CWAN,ticker+date
+VNTV,considered,17.0,3.627766,~$3.6B at listing (<$5B),Vantiv Inc,2012-03-21,ritter-anchor,med,VNTV,ticker+date
+CWK,considered,17.0,3.6054549365,~$3.6B at listing (<$5B),Cushman & Wakefield Plc,2018-08-02,auto:edgar+yf,high,CWK,ticker+date
+WAY,considered,21.5,3.583182131,~$3.6B at listing (<$5B),Waystar Holding Corp.,2024-06-07,single:edgar,low,WAY,ticker+date
+VTEX,considered,19.0,3.55791302,~$3.6B at listing (<$5B),VTEX,2021-07-21,ritter-anchor,med,VTEX,ticker+date
+GLBE,considered,25.0,3.5559248,~$3.6B at listing (<$5B),Global-E Online Ltd,2021-05-12,single:yf,low,GLBE,ticker+date
+OLO,considered,25.0,3.55032315,~$3.6B at listing (<$5B),Olo Inc,2021-03-17,ritter-anchor,med,OLO,ticker+date
+FIGS,considered,22.0,3.5368719100000003,~$3.5B at listing (<$5B),Figs Inc,2021-05-27,auto:ritter+yf,high,FIGS,ticker+date
+LTH,considered,18.0,3.520610622,~$3.5B at listing (<$5B),Life Time Group Holdings Inc,2021-10-07,auto:edgar+yf,high,LTH,ticker+date
+CERT,considered,23.0,3.5151070085000002,~$3.5B at listing (<$5B),Certara Inc,2020-12-11,auto:edgar+yf,high,CERT,ticker+date
+PWSC,considered,18.0,3.473176518,~$3.5B at listing (<$5B),PowerSchool Holdings Inc,2021-07-28,ritter-anchor,med,PWSC,ticker+date
+NXT,considered,24.0,3.457769088,~$3.5B at listing (<$5B),Nextracker Inc,2023-02-09,ritter-anchor,med,NXT,ticker+date
+NVST,considered,22.0,3.4461592,~$3.4B at listing (<$5B),Envista Hldg Corp,2019-09-18,auto:edgar+yf,high,NVST,ticker+date
+BNTX,considered,15.0,3.44193,~$3.4B at listing (<$5B),BioNTech SE,2019-10-10,single:yf,low,BNTX,ticker+date
+ZIP,considered,18.0,3.408056838,direct listing (no underwriter/lockup) - excluded by spec,"ZipRecruiter, Inc",2021-05-26,ritter-anchor,med,ZIP,ticker+date
+KC,considered,17.0,3.404488,~$3.4B at listing (<$5B),Kingsoft Cloud Holdings Ltd,2020-05-08,single:yf,low,KC,ticker+date
+ALHC,considered,18.0,3.370930038,~$3.4B at listing (<$5B),Alignment Healthcare Inc,2021-03-26,auto:edgar+yf,high,ALHC,ticker+date
+SNDR,considered,19.0,3.332451705,~$3.3B at listing (<$5B),Schneider National Inc,2017-04-06,auto:ritter+yf,high,SNDR,ticker+date
+AZEK,considered,23.0,3.314575862,~$3.3B at listing (<$5B),AZEK Co Inc,2020-06-12,ritter-anchor,med,AZEK,ticker+date
+RSKD,considered,21.0,3.308576145,~$3.3B at listing (<$5B),Riskified Ltd,2021-07-29,auto:ritter+yf,high,RSKD,ticker+date
+EVCM,considered,17.0,3.2964770975000004,~$3.3B at listing (<$5B),EverCommerce Inc,2021-07-01,auto:edgar+yf,high,EVCM,ticker+date
+GEMI,considered,28.0,3.278333324,~$3.3B at listing (<$5B),"Gemini Space Station, Inc.",2025-09-12,ritter-anchor,med,GEMI,ticker+date
+ASAN,considered,21.0,3.24681,direct listing (no underwriter/lockup) - excluded by spec,"Asana, Inc.",2020-09-30,auto:edgar+ritter+yf,high,ASAN,ticker+date
+SLQT,considered,20.0,3.24383467,~$3.2B at listing (<$5B),SelectQuote Inc,2020-05-21,auto:edgar+yf,high,SLQT,ticker+date
+PANW,considered,42.0,3.241541121,~$3.2B at listing (<$5B),Palo Alto Networks Inc,2012-07-19,auto:edgar+yf,high,PANW,ticker+date
+NXPI,considered,14.0,3.23176,~$3.2B at listing (<$5B),NXP Semiconductors NV,2010-08-05,single:yf,low,NXPI,ticker+date
+FHB,considered,23.0,3.2093470555,~$3.2B at listing (<$5B),First Hawaiian,2016-08-04,auto:edgar+yf,high,FHB,ticker+date
+PSTG,considered,17.0,3.1891745,~$3.2B at listing (<$5B),Pure Storage Inc,2015-10-07,auto:ritter+yf,high,PSTG,ticker+date
+GPRO,considered,24.0,3.1600200000000003,~$3.2B at listing (<$5B),GoPro Inc,2014-06-26,auto:ritter+yf,high,GPRO,ticker+date
+AMH,considered,16.0,3.148706352,~$3.1B at listing (<$5B),American Homes 4 Rent,2013-07-31,auto:ritter+yf,high,AMH,ticker+date
+GDDY,considered,20.0,3.105,~$3.1B at listing (<$5B),GoDaddy Inc,2015-04-01,auto:edgar+ritter+yf,high,GDDY,ticker+date
+PACS,considered,21.0,3.103232832,~$3.1B at listing (<$5B),"PACS Group, Inc.",2024-04-11,single:yf,low,PACS,ticker+date
+ACT,considered,19.0,3.0939629355,~$3.1B at listing (<$5B),Enact Holdings Inc,2021-09-16,auto:edgar+yf,high,ACT,ticker+date
+POSH,considered,42.0,3.072213354,~$3.1B at listing (<$5B),Poshmark Inc,2021-01-14,ritter-anchor,med,POSH,ticker+date
+ST,considered,18.0,3.063258,~$3.1B at listing (<$5B),Sensata Tech Hldg NV,2010-03-10,single:yf,low,ST,ticker+date
+BLLN,considered,60.0,2.68322274,too recent: IPO 2025-11-06; +180 td outcome not yet observable,"BillionToOne, Inc.",2025-11-06,ritter-anchor,med,BLLN,ticker+date
+NP,considered,20.0,2.3422,too recent: IPO 2025-10-01; +180 td outcome not yet observable,Neptune Insurance Holdings Inc,2025-10-01,auto:edgar+ritter,high,NP,ticker+date
+AERO,considered,19.0,,too recent: IPO 2025-11-06; +180 td outcome not yet observable,"Grupo Aeromexico, S.A.B. de C.",2025-11-06,unresolved,none,AERO,ticker+date
+BABA,headline,68.0,170.0,,Alibaba Group Holding Ltd,2014-09-19,single:yf,low,BABA,ticker+date
+META,headline,38.0,92.043693271,,Facebook Inc,2012-05-17,auto:ritter+yf,high,FB,ticker+date
+UBER,headline,45.0,75.8815366275,,Uber Technologies Inc,2019-05-10,auto:edgar+yf,high,UBER,ticker+date
+ARM,headline,51.0,72.034443264,,ARM Holdings PLC,2023-09-14,single:yf,low,ARM,ticker+date
+RIVN,headline,78.0,68.315408538,,Rivian Automotive Inc,2021-11-10,auto:ritter+yf,high,RIVN,ticker+date
+CPNG,headline,35.0,61.5149639475,,Coupang Inc,2021-03-11,auto:ritter+yf,high,CPNG,ticker+date
+VG,headline,25.0,60.4885463,,"Venture Global, Inc",2025-01-24,ritter-anchor,med,VG,ticker+date
+GM,headline,33.0,50.406625467,,General Motors Co,2010-11-18,auto:edgar+yf,high,GM,ticker+date
+KVUE,headline,22.0,41.914888356,,Kenvue Inc.,2023-05-04,auto:edgar+yf,high,KVUE,ticker+date
+NU,headline,9.0,41.478139777500004,,Nu Holdings Ltd,2021-12-09,auto:ritter+yf,high,NU,ticker+date
+ABNB,headline,68.0,40.626472534,,Airbnb Inc,2020-12-10,auto:ritter+yf,high,ABNB,ticker+date
+RKT,headline,18.0,35.705718864000005,,Rocket Companies Inc,2020-08-06,auto:ritter+yf,high,RKT,ticker+date
+DASH,headline,102.0,35.478482571,,DoorDash Inc,2020-12-09,auto:ritter+yf,high,DASH,ticker+date
+HOOD,headline,38.0,34.049748608,,Robinhood Markets Inc,2021-07-29,single:yf,low,HOOD,ticker+date
+SNOW,headline,120.0,33.20340096,,Snowflake Inc,2020-09-16,auto:edgar+ritter+yf,high,SNOW,ticker+date
+LU,headline,13.5,32.93136,,Lufax Hldg Ltd,2020-10-30,single:yf,low,LU,ticker+date
+PATH,headline,56.0,29.07261602,,UiPath Inc,2021-04-21,auto:ritter+yf,high,PATH,ticker+date
+APP,headline,80.0,28.63642472,,AppLovin Corp,2021-04-15,auto:edgar+ritter+yf,high,APP,ticker+date
+JD,headline,19.0,26.9895,,JD.com Inc,2014-05-22,single:yf,low,JD.,name+date(1.00)
+GFS,headline,47.0,25.063472296,,GlobalFoundries Inc,2021-10-28,auto:edgar+yf,high,GFS,ticker+date
+BEKE,headline,20.0,22.54960128,,KE Holdings Inc,2020-08-13,single:yf,low,BEKE,ticker+date
+LYFT,headline,72.0,22.4415828,,Lyft Inc,2019-03-29,auto:ritter+yf,high,LYFT,ticker+date
+ATUS,headline,30.0,22.11204198,,Altice USA Inc,2017-06-22,ritter-anchor,med,ATUS,ticker+date
+KMI,headline,30.0,21.21,,Kinder Morgan Inc,2011-02-10,ritter-anchor,med,KMI,ticker+date
+PDD,headline,19.0,21.048009088,,Pinduoduo Inc,2018-07-26,single:yf,low,PDD,ticker+date
+YMM,headline,19.0,20.631149696,,Full Truck Alliance Co Ltd,2021-06-22,single:yf,low,YMM,ticker+date
+TME,headline,13.0,20.252700416,,Tencent Music Ent Grp,2018-12-12,single:yf,low,TME,ticker+date
+HLT,headline,20.0,20.0,,Hilton Worldwide Holdings Inc,2013-12-12,verified,verified,HLT,ticker+date
+TOST,headline,40.0,19.97331346,,Toast Inc,2021-09-22,auto:ritter+yf,high,TOST,ticker+date
+SNAP,headline,17.0,19.856537879999998,,Snap Inc,2017-03-02,auto:ritter+yf,high,SNAP,ticker+date
+SYF,headline,23.0,19.1772917735,,Synchrony Financial,2014-07-31,auto:edgar+yf,high,SYF,ticker+date
+RLX,headline,12.0,18.639839232,,RLX Technology Inc,2021-01-22,single:yf,low,RLX,ticker+date
+CRWV,headline,40.0,18.56397784,,"CoreWeave, Inc.",2025-03-28,ritter-anchor,med,CRWV,ticker+date
+TWTR,headline,26.0,18.0,,Twitter,2013-11-07,verified,verified,TWTR,ticker+date
+LINE,headline,78.0,17.75972211,,"Lineage, Inc.",2024-07-25,single:edgar,low,LINE,ticker+date
+MBLY,headline,21.0,16.7110008345,,Mobileye Global Inc,2022-10-26,auto:ritter+yf,high,MBLY,ticker+date
+RPRX,headline,28.0,16.670723328,,Royalty Pharma Plc,2020-06-16,auto:edgar+ritter+yf,high,RPRX,ticker+date
+FIG,headline,33.0,16.086209799,,"Figma, Inc.",2025-07-31,ritter-anchor,med,FIG,ticker+date
+XM,headline,30.0,15.10153986,,Qualtrics International Inc,2021-01-28,ritter-anchor,med,XM,ticker+date
+XP,headline,27.0,14.898604401,,XP Inc,2019-12-11,auto:ritter+yf,high,XP,ticker+date
+LOGC,headline,24.0,14.327568264,,Contextlogic Inc,2020-12-16,ritter-anchor,med,WISH,ticker+date
+MQ,headline,27.0,14.3166408795,,Marqeta Inc,2021-06-09,auto:ritter+yf,high,MQ,ticker+date
+HCP,headline,80.0,14.3110136,,HashiCorp Inc,2021-12-09,ritter-anchor,med,HCP,ticker+date
+ZTO,headline,19.5,14.262417,,ZTO Express (Cayman) Inc,2016-10-27,single:yf,low,ZTO,ticker+date
+FDC,headline,16.0,14.064481072,,First Data Corp,2015-10-15,ritter-anchor,med,FDC,ticker+date
+U,headline,52.0,13.887744546,,Unity Software Inc,2020-09-18,auto:edgar+yf,high,U,ticker+date
+HCA,headline,30.0,13.849716,,HCA Holdings Inc,2011-03-09,auto:edgar+yf,high,HCA,ticker+date
+OLPX,headline,21.0,13.610621157,,"Olaplex Holdings, Inc",2021-09-30,auto:edgar+yf,high,OLPX,ticker+date
+CRBG,headline,21.0,13.566997248,,Corebridge Financial Inc,2022-09-15,auto:edgar+yf,high,CRBG,ticker+date
+PAGP,headline,22.0,13.429061074,,Plains GP Holdings,2013-10-16,ritter-anchor,med,PAGP,ticker+date
+ZTS,headline,26.0,13.0,,Zoetis Inc,2013-01-31,auto:edgar+ritter+yf,high,ZTS,ticker+date
+GRPN,headline,20.0,12.75606656,,Groupon Inc,2011-11-03,ritter-anchor,med,GRPN,ticker+date
+WMG,headline,25.0,12.75,,Warner Music Group Corp,2020-06-03,auto:ritter+yf,high,WMG,ticker+date
+GDRX,headline,33.0,12.659799174,,GoodRx Holdings Inc,2020-09-23,auto:ritter+yf,high,GDRX,ticker+date
+ALLY,headline,25.0,12.018994249999999,,Ally Financial Inc,2014-04-10,auto:edgar+yf,high,ALLY,ticker+date
+TUYA,headline,21.0,11.923568832,,Tuya Inc,2021-03-18,single:yf,low,TUYA,ticker+date
+AFRM,headline,49.0,11.894591779,,Affirm Holdings Inc,2021-01-13,ritter-anchor,med,AFRM,ticker+date
+AR,headline,44.0,11.860170497999999,,Antero Resources,2013-10-10,auto:edgar+yf,high,AR,ticker+date
+CFG,headline,21.5,11.53837880225,,Citizens Financial Group Inc,2014-09-24,auto:edgar+yf,high,CFG,ticker+date
+IOT,headline,23.0,11.508536082,,Samsara Inc,2021-12-15,auto:ritter+yf,high,IOT,ticker+date
+XPEV,headline,15.0,11.35756512,,XPeng Inc,2020-08-27,single:yf,low,XPEV,ticker+date
+EQH,headline,20.0,11.22,,Axa Equitable Holdings Inc,2018-05-10,auto:edgar+yf,high,EQH,ticker+date
+PLTK,headline,27.0,11.059067727,,Playtika Holding Corp,2021-01-15,auto:edgar+yf,high,PLTK,ticker+date
+GTLB,headline,77.0,11.0121484165,,GitLab Inc,2021-10-14,auto:ritter+yf,high,GTLB,ticker+date
+ADT,headline,14.0,10.495801687,,ADT Inc,2018-01-19,auto:edgar+yf,high,ADT,ticker+date
+VIK,headline,24.0,10.354920192,,Viking Holdings Ltd,2024-05-01,single:yf,low,VIK,ticker+date
+FRSH,headline,36.0,10.131591455999999,,Freshworks Inc,2021-09-22,auto:ritter+yf,high,FRSH,ticker+date
+PINS,headline,19.0,10.058082706,,Pinterest Inc,2019-04-18,ritter-anchor,med,PINS,ticker+date
+CHYM,headline,27.0,9.839381526,,"Chime Financial, Inc.",2025-06-12,ritter-anchor,med,CHYM,ticker+date
+RACE,headline,52.0,9.824048,,Ferrari NV,2015-10-21,single:yf,low,RACE,ticker+date
+LI,headline,11.5,9.617956,,Li Auto Inc,2020-07-30,single:yf,low,LI,ticker+date
+ZM,headline,36.0,9.230190678,,Zoom Video Communications Inc,2019-04-18,auto:ritter+yf,high,ZM,ticker+date
+CFLT,headline,36.0,9.08514684,,Confluent Inc,2021-06-24,ritter-anchor,med,CFLT,ticker+date
+TPG,headline,29.5,9.054959982,,TPG Inc.,2022-01-13,ritter-anchor,med,TPG,ticker+date
+S,headline,35.0,8.923272382499999,,SentinelOne Inc,2021-06-30,auto:ritter+yf,high,S,ticker+date
+SDC,headline,23.0,8.851847873,,SmileDirectClub Inc,2019-09-12,ritter-anchor,med,SDC,ticker+date
+CHWY,headline,22.0,8.7692,,Chewy Inc,2019-06-14,ritter-anchor,med,CHWY,ticker+date
+PCOR,headline,67.0,8.685223902499999,,Procore Technologies Inc,2021-05-20,auto:edgar+yf,high,PCOR,ticker+date
+ELAN,headline,24.0,8.661780192,,Elanco Animal Health Inc,2018-09-20,auto:edgar+yf,high,ELAN,ticker+date
+BIRK,headline,46.0,8.639996,,Birkenstock Holding plc,2023-10-11,single:yf,low,BIRK,ticker+date
+MCFE,headline,20.0,8.63703586,,McAfee Corp,2020-10-22,ritter-anchor,med,MCFE,ticker+date
+TSP,headline,40.0,8.48769528,,TuSimple Holdings Inc,2021-04-15,ritter-anchor,med,TSP,ticker+date
+CART,headline,30.0,8.35012437,,"Maplebear, Inc. (Instacart)",2023-09-19,auto:edgar+yf,high,CART,ticker+date
+ENBL,headline,20.0,8.31422,,Enable Midstream Partners LP,2014-04-11,ritter-anchor,med,ENBL,ticker+date
+DBX,headline,21.0,8.2417336155,,Dropbox Inc,2018-03-23,auto:ritter+yf,high,DBX,ticker+date
+PTON,headline,29.0,8.078682365999999,,Peloton Interactive Inc,2019-09-26,auto:ritter+yf,high,PTON,ticker+date
+ZI,headline,21.0,8.035638786,,ZoomInfo Technologies Inc,2020-06-04,ritter-anchor,med,ZI,ticker+date
+YNDX,headline,25.0,8.03118645,,Yandex NV,2011-05-24,ritter-anchor,med,YNDX,ticker+date
+ATH,headline,40.0,8.02763,,Athene Holding Ltd,2016-12-09,ritter-anchor,med,ATH,ticker+date
+SARO,headline,24.0,8.02707912,,"StandardAero, Inc.",2024-10-02,single:edgar,low,SARO,ticker+date
+SRAD,headline,27.0,7.98714,,Sportradar Group AG,2021-09-14,ritter-anchor,med,SRAD,ticker+date
+INFA,headline,29.0,7.937259603,,Informatica Inc,2021-10-27,ritter-anchor,med,INFA,ticker+date
+OSCR,headline,39.0,7.922113602,,Oscar Health Inc,2021-03-03,auto:ritter+yf,high,OSCR,ticker+date
+PECO,headline,28.0,7.8624,,"Phillips Edison & Company, Inc",2021-07-15,single:yf,low,PECO,ticker+date
+DDOG,headline,27.0,7.825535955,,Datadog Inc,2019-09-19,ritter-anchor,med,DDOG,ticker+date
+EQGP,headline,27.0,7.676424107999999,,EQT GP Holdings LP,2015-05-12,auto:ritter+yf,high,EQGP,ticker+date
+ACI,headline,16.0,7.664432,,Albertsons Cos Inc,2020-06-26,auto:edgar+ritter+yf,high,ACI,ticker+date
+BZ,headline,19.0,7.599050304,,Kanzhun Ltd,2021-06-11,single:yf,low,BZ,ticker+date
+KVYO,headline,30.0,7.555677494999999,,"Klaviyo, Inc.",2023-09-20,auto:ritter+yf,high,KVYO,ticker+date
+MRNA,headline,23.0,7.5142319855,,Moderna Inc,2018-12-07,auto:edgar+yf,high,MRNA,ticker+date
+MNDY,headline,155.0,7.3993745,,monday.com Ltd,2021-06-10,single:yf,low,MNDY,ticker+date
+WEBR,headline,14.0,7.33842396,,Weber Inc,2021-08-05,ritter-anchor,med,WEBR,ticker+date
+RELY,headline,43.0,6.998840648,,Remitly Global Inc,2021-09-23,auto:edgar+yf,high,RELY,ticker+date
+ZNGA,headline,10.0,6.99343351,,Zynga Inc,2011-12-15,ritter-anchor,med,ZNGA,ticker+date
+AVTR,headline,14.0,6.967768353,,Avantor Inc,2019-05-17,auto:edgar+yf,high,AVTR,ticker+date
+COMP,headline,18.0,6.9646671,,Compass Inc,2021-04-01,auto:edgar+ritter+yf,high,COMP,ticker+date
+KOS,headline,18.0,6.961239558,,Kosmos Energy Ltd,2011-05-10,auto:edgar+yf,high,KOS,ticker+date
+MRVI,headline,27.0,6.955757415,,Maravai Lifesciences Hldg Inc,2020-11-20,ritter-anchor,med,MRVI,ticker+date
+CRCL,headline,31.0,6.898743565,,"Circle Internet Group, Inc.",2025-06-05,ritter-anchor,med,CRCL,ticker+date
+IHS,headline,21.0,6.886681556999999,,IHS Holding Ltd,2021-10-14,auto:edgar+yf,high,IHS,ticker+date
+CRWD,headline,34.0,6.733325370999999,,Crowdstrike Holdings Inc,2019-06-12,auto:ritter+yf,high,CRWD,ticker+date
+ROOT,headline,27.0,6.732464985,,Root Inc,2020-10-28,ritter-anchor,med,ROOT,ticker+date
+LFST,headline,18.0,6.730178759999999,,LifeStance Health Group Inc,2021-06-10,auto:edgar+yf,high,LFST,ticker+date
+VICI,headline,20.0,6.7040784,,VICI Properties Inc,2018-02-01,auto:edgar+yf,high,VICI,ticker+date
+CG,headline,22.0,6.699,,The Carlyle Group LP,2012-05-02,ritter-anchor,med,CG,ticker+date
+PAGS,headline,21.5,6.6931010805,,Pagseguro Digital Ltd.,2018-01-24,auto:ritter+yf,high,PAGS,ticker+date
+GOCO,headline,21.0,6.585227943,,GoHealth Inc,2020-07-15,ritter-anchor,med,GOCO,ticker+date
+ONON,headline,24.0,6.576552120000001,,On Holding AG,2021-09-15,auto:edgar+ritter,high,ONON,ticker+date
+BMBL,headline,43.0,6.5448688145,,Bumble Inc,2021-02-11,auto:edgar+ritter,high,BMBL,ticker+date
+STNE,headline,24.0,6.541621548,,StoneCo Ltd,2018-10-25,auto:ritter+yf,high,STNE,ticker+date
+SHC,headline,23.0,6.442311097499999,,Sotera Health Co,2020-11-20,auto:edgar+yf,high,SHC,ticker+date
+NIO,headline,6.26,6.4165,,Nio Inc,2018-09-12,single:yf,low,NIO,ticker+date
+COTY,headline,17.5,6.3865725,,Coty Inc,2013-06-12,auto:ritter+yf,high,COTY,ticker+date
+LEVI,headline,17.0,6.3366563895,,Levi Strauss & Co,2019-03-21,auto:ritter+yf,high,LEVI,ticker+date
+BLCO,headline,18.0,6.3328679999999995,,Bausch + Lomb Corporation,2022-05-06,auto:edgar+yf,high,BLCO,ticker+date
+AS,headline,13.0,6.2985,,"Amer Sports, Inc.",2024-02-01,single:yf,low,AS,ticker+date
+INVH,headline,20.0,6.2075362599999995,,Invitation Homes Inc,2017-02-01,auto:edgar+yf,high,INVH,ticker+date
+STVN,headline,21.0,6.206340756,,Stevanato Group SpA,2021-07-16,auto:edgar+ritter+yf,high,STVN,ticker+date
+DLO,headline,21.0,6.1512335325,,dLocal Ltd,2021-06-03,auto:ritter+yf,high,DLO,ticker+date
+GFL,headline,19.0,6.1486163245,,GFL Environmental Inc,2020-03-03,auto:ritter+yf,high,GFL,ticker+date
+EDR,headline,24.0,6.090006504,,Endeavor Group Holdings Inc,2021-04-29,ritter-anchor,med,EDR,ticker+date
+MNSO,headline,20.0,6.07950016,,MINISO Group Holding Ltd,2020-10-15,single:yf,low,MNSO,ticker+date
+TW,headline,27.0,6.0506220105,,Tradeweb Markets Inc,2019-04-04,auto:ritter+yf,high,TW,ticker+date
+RYAN,headline,23.5,6.00779714875,,"Ryan Specialty Group Holdings,",2021-07-22,auto:ritter+yf,high,RYAN,ticker+date
+BRZE,headline,65.0,5.8666290475,,"Braze, Inc.",2021-11-17,auto:ritter+yf,high,BRZE,ticker+date
+FTCH,headline,20.0,5.8571819,,Farfetch Ltd,2018-09-21,ritter-anchor,med,FTCH,ticker+date
+GTES,headline,19.0,5.8093296005,,Gates Industrial Corp Plc,2018-01-25,auto:edgar+yf,high,GTES,ticker+date
+RBRK,headline,32.0,5.621859392,,"Rubrik, Inc.",2024-04-25,auto:ritter+yf,high,RBRK,ticker+date
+BSY,headline,22.0,5.619544909,,Bentley Systems Inc,2020-09-23,auto:ritter+yf,high,BSY,ticker+date
+ULS,headline,28.0,5.6,,UL Solutions Inc.,2024-04-12,auto:edgar+ritter+yf,high,ULS,ticker+date
+ALAB,headline,36.0,5.547551417999999,,Astera Labs Inc,2024-03-20,auto:edgar+yf,high,ALAB,ticker+date
+DDL,headline,23.5,5.538503312,,Dingdong (Cayman) Ltd,2021-06-29,single:yf,low,DDL,ticker+date
+TIXT,headline,25.0,5.4782469,,TELUS International (Cda) Inc,2021-02-03,ritter-anchor,med,TIXT,ticker+date
+LZ,headline,28.0,5.474235536,,Legalzoom.Com Inc,2021-06-30,auto:edgar+yf,high,LZ,ticker+date
+TTAN,headline,71.0,5.446592399,,ServiceTitan Inc.,2024-12-12,ritter-anchor,med,TTAN,ticker+date
+ABCL,headline,20.0,5.368778880000001,,AbCellera Biologics Inc,2020-12-11,auto:edgar+yf,high,ABCL,ticker+date
+REYN,headline,26.0,5.360231396,,Reynolds Consumer Products Inc,2020-01-31,auto:edgar+yf,high,REYN,ticker+date
+SGFY,headline,24.0,5.319044712,,Signify Health Inc,2021-02-11,ritter-anchor,med,SGFY,ticker+date
+BRX,headline,20.0,5.2817896,,Brixmor Property Group,2013-10-30,auto:edgar+yf,high,BRX,ticker+date
+FIGR,headline,25.0,5.2129122,,"Figure Technology Solutions, I",2025-09-11,ritter-anchor,med,FIGR,ticker+date
+INGM,headline,22.0,5.166162782,,Ingram Micro Holding Corp,2024-10-24,single:edgar,low,INGM,ticker+date
+USFD,headline,23.0,5.0740039295,,US Foods Holding Corp,2016-05-26,auto:edgar+yf,high,USFD,ticker+date
+OS,headline,20.0,5.04891842,,"OneStream, Inc.",2024-07-24,ritter-anchor,med,OS,ticker+date
